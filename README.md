@@ -8,7 +8,7 @@
 
     https://ecomfe.github.io/fontmin/
 
-3500 常用字数据
+7000 常用字数据
 
     https://github.com/DavidSheh/CommonChineseCharacter
 

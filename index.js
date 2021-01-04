@@ -2,7 +2,7 @@ const Fontmin = require("fontmin");
 const text = require("./chars");
 
 const fontmin = new Fontmin()
-    .src("./fonts/SourceHanSansCN-Medium.ttf")
+    .src("./fonts/SourceHanSansSC-Regular.ttf")
     .use(Fontmin.glyph({ text }))
     .dest("dest");
 
